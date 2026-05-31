@@ -154,9 +154,9 @@ export default function Hero() {
             lineHeight: 1.9,
           }}
         >
-          Développeuse full-stack, j&apos;interviens sur tout le
+          Développeuse full-stack et pasionnée , j&apos;interviens sur tout le
           cycle de vie d&apos;un projet : analyse, conception,
-          développement, intégration et déploiement.
+          développement, intégration et déploiement. 
         </p>
 
         {/* Buttons */}
